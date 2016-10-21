@@ -1,8 +1,9 @@
 /*
  * Elite Dangerous Control Panel
- * Adapted from the code Example 4-5 from the book Getting Started with Arduino: 3rd edition
- * (c) netwolfx
+ * Adapted from code Example 4-5 from the book "Getting Started with Arduino: 3rd edition, by Massimo Banzi and Michael Shiloh (Maker Media). Copyright 2015 Massimo Banzi and Michael Shiloh, 978-1-4493-6333-8."
+ * code (c) netwolfx 2016
 */
+
 #include <Keyboard.h>
 
 const int LED = 2;  //the pin for the LED
