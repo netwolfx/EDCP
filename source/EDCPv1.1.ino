@@ -1,7 +1,7 @@
 /*
  * Elite Dangerous Control Panel
- * written by Justin Legel
- * This code is in the public domain
+ * Adapted from the code Example 4-5 from the book Getting Started with Arduino: 3rd edition
+ * (c) netwolfx
 */
 #include <Keyboard.h>
 
